@@ -1,0 +1,8 @@
+temp = 871
+if temp < 70:
+    print("Wear a jacket!")
+elif temp>100:
+    print("Too hot! Wear something light")
+else:
+    print("It's warm out, no need for a jacket")    
+print("Have a good day")    
